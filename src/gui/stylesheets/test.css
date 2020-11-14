@@ -1,0 +1,8 @@
+.button{
+    -fx-text-fill: #0cffff;
+    -fx-background-color: #150054;
+}
+
+.button_nextTurn{
+    -fx-background-color: #1b82ff;
+}
